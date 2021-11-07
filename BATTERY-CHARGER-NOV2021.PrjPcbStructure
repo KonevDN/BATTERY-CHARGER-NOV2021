@@ -1,1 +1,3 @@
 Record=TopLevelDocument|FileName=Архитектура.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Архитектура.SchDoc|Designator=Блок1|SchDesignator=Блок1|FileName=Блок1.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Блок1.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=Архитектура.SchDoc|FileName=Записки.SchDoc|SheetNumber=3
