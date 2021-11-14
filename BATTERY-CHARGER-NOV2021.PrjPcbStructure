@@ -1,3 +1,5 @@
-Record=TopLevelDocument|FileName=Архитектура.SchDoc|SheetNumber=1
-Record=SheetSymbol|SourceDocument=Архитектура.SchDoc|Designator=Блок1|SchDesignator=Блок1|FileName=Блок1.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Блок1.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=NoMainPathDocument|SourceDocument=Архитектура.SchDoc|FileName=Записки.SchDoc|SheetNumber=3
+Record=TopLevelDocument|FileName=Структура.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Структура.SchDoc|Designator=Блок1|SchDesignator=Блок1|FileName=Блок1.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Блок1.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Структура.SchDoc|Designator=Блок2|SchDesignator=Блок2|FileName=Блок2.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=Блок2.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Структура.SchDoc|Designator=Блок3|SchDesignator=Блок3|FileName=Блок3.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=Блок3.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Структура.SchDoc|Designator=Блок4|SchDesignator=Блок4|FileName=Блок4.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=Блок4.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
